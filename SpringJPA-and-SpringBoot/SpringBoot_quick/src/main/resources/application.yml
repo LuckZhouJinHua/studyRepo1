@@ -1,0 +1,26 @@
+#普通字符串数据
+name: zhoujinhua
+#配置对象数据
+#同级就空格一致
+server:
+   port: 9101
+   servlet:
+     context-path: /demo
+
+
+
+student:
+  name: zhangsan
+  addr: sahnghai
+  phone: 13476691838
+
+
+#集合
+stu:
+  - name: zhangsan
+    age: 17
+    addeer: shanghai
+  - name: lisi
+    age: 18
+    addrres: beijin
+

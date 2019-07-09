@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubboxdemo" />
+        <module name="ES-Demo" />
+        <module name="eureak-server" />
+        <module name="fastDFS-demo" />
+        <module name="jpa-day2" />
+        <module name="maven_high_level (1)" />
+        <module name="maven_high_level (2)" />
+        <module name="redis-demo" />
+        <module name="shiro_demo" />
+        <module name="SpringBoot" />
+        <module name="springboot_jpa" />
+        <module name="springboot_mybatis" />
+        <module name="springboot_quick2" />
+        <module name="springBootDemo" />
+        <module name="SpringDataRedisDemo" />
+        <module name="springJPA_quick_day1" />
+        <module name="springJPA_quick_day2" />
+        <module name="springJPA_quick_day3_spec" />
+        <module name="zjhdubbox" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboxdemo" target="1.7" />
+      <module name="ES-Demo" target="1.8" />
+      <module name="eureak-server" target="1.8" />
+      <module name="eureak-server2" target="1.8" />
+      <module name="fastDFS-demo" target="1.8" />
+      <module name="jpa-day2" target="1.8" />
+      <module name="maven_high_level (1)" target="1.8" />
+      <module name="maven_high_level (2)" target="1.8" />
+      <module name="redis-demo" target="1.8" />
+      <module name="redis_demo" target="1.8" />
+      <module name="redisDemo" target="1.8" />
+      <module name="redsi-demo" target="1.8" />
+      <module name="shiro_demo" target="1.7" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="springboot_jpa" target="1.8" />
+      <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_quick2" target="1.8" />
+      <module name="springBootDemo" target="1.8" />
+      <module name="springBootDemo (1)" target="1.8" />
+      <module name="SpringDataRedisDemo" target="1.8" />
+      <module name="springJPA_quick_day1" target="1.8" />
+      <module name="springJPA_quick_day2" target="1.8" />
+      <module name="springJPA_quick_day3_spec" target="1.8" />
+      <module name="springPranter" target="1.8" />
+      <module name="zjhdubbox" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

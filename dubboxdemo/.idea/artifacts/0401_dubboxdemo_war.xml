@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="0401_dubboxdemo:war">
+    <output-path>$PROJECT_DIR$/0401_dubboxdemo/target</output-path>
+    <root id="archive" name="dubboxdemo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="0401_dubboxdemo:war exploded" />
+    </root>
+  </artifact>
+</component>

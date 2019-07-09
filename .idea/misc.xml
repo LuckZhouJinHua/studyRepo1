@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_demo/0320_maven_high_level" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_demo/maven_high_level-2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureak-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ES-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro_demo-master/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDataRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/fastDFS-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboxdemo/0401_dubboxdemo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboxdemo/0401_dubboxdemo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_demo/0320_maven_high_level/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_demo/maven_high_level-2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/springPranter/pom.xml" />
+        <option value="$PROJECT_DIR$/springPranter/springboot_quick2/pom.xml" />
+        <option value="$PROJECT_DIR$/springPranter/SpringBoot_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/springPranter/springboot_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springPranter/springboot_jpa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/POI-Demo/out" />
+  </component>
+</project>

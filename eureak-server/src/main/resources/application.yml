@@ -1,0 +1,16 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: eureak-server  #配置spring应用名称
+eureka:
+  instance:
+    hostname: peer1
+    ip-address: 127.0.0.1
+    instance-id: eureak-discovery:8761
+  client:
+    register-with-eureka: false #是否将自己注册到注册中心  (单机模式 不注册)
+    fetch-registry: false   #如果是客户端要定时从eureka server(注册中心中)获取服务,那么这个配置就要设置true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/ #eureka server 对外暴露的地址  注册地址
