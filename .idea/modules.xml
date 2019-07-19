@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CI_QuickStart/CI_QuickStart.iml" filepath="$PROJECT_DIR$/CI_QuickStart/CI_QuickStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ES-Demo/ES-Demo.iml" filepath="$PROJECT_DIR$/ES-Demo/ES-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/POI-Demo/POI-Demo.iml" filepath="$PROJECT_DIR$/POI-Demo/POI-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POI-quckstar/POI-quckstar.iml" filepath="$PROJECT_DIR$/POI-quckstar/POI-quckstar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringBoot_quick/SpringBoot_quick.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringBoot_quick/SpringBoot_quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDataRedisDemo/SpringDataRedisDemo.iml" filepath="$PROJECT_DIR$/SpringDataRedisDemo/SpringDataRedisDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringJPA-and-SpringBoot.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringJPA-and-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/class-demo/class-demo.iml" filepath="$PROJECT_DIR$/class-demo/class-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/connection-test/connection-test.iml" filepath="$PROJECT_DIR$/connection-test/connection-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureak-server/eureak-server.iml" filepath="$PROJECT_DIR$/eureak-server/eureak-server.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day1/springJPA_quick_day1.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day1/springJPA_quick_day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day2/springJPA_quick_day2.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day2/springJPA_quick_day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day3_spec/springJPA_quick_day3_spec.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day3_spec/springJPA_quick_day3_spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-yam/springboot-yam.iml" filepath="$PROJECT_DIR$/springboot-yam/springboot-yam.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_jpa/springboot_jpa.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_jpa/springboot_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_mybatis/springboot_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_quick2/springboot_quick2.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_quick2/springboot_quick2.iml" />

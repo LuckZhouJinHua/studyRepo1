@@ -14,3 +14,4 @@
 <%= new Apple().getAppleName() %>
 </body>
 </html>
+http://localhost:8080/job/MyFirsrtJenkins/build?token=ZJH_TOKEN

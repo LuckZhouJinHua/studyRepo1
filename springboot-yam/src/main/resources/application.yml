@@ -1,0 +1,14 @@
+
+server:
+  port: 8100
+
+Person:
+  name: zhangsan
+  age: 12
+  hoby:
+    - lanqiu
+    - zuqiu
+  maps: {k1:v2,k2:v2}
+  dog:
+    name: xiaogou
+    age: 13

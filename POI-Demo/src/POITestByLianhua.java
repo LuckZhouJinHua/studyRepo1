@@ -3,6 +3,7 @@ import org.apache.poi.hssf.usermodel.HSSFRow;
 
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 
@@ -22,13 +23,13 @@ public class POITestByLianhua {
         //获取总共行数
         int rows = sheetAt.getPhysicalNumberOfRows();
         Cell cell = sheetAt.getRow(3).getCell(1);
+
         String stringCellValue = cell.getStringCellValue();
-        if ("".equals(stringCellValue)){
-
-            System.out.println("stringCellValue = " + stringCellValue);
-
-        }
-
+        double value = cell.getNumericCellValue();
+        CellType cellType = cell.getCellType();
+        System.out.println(cellType+"yyy");
+        System.out.println("value = " + value);
+        System.out.println(value==0);
 
 
 

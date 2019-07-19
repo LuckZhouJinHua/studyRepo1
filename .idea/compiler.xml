@@ -6,48 +6,69 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="1.shiro-身份的认证流程" />
+        <module name="CI_QuickStart" />
         <module name="dubboxdemo" />
         <module name="ES-Demo" />
         <module name="eureak-server" />
         <module name="fastDFS-demo" />
+        <module name="hs-price-collection-code-generator" />
         <module name="jpa-day2" />
         <module name="maven_high_level (1)" />
         <module name="maven_high_level (2)" />
+        <module name="POI-quckstar" />
         <module name="redis-demo" />
         <module name="shiro_demo" />
         <module name="SpringBoot" />
+        <module name="springboot-yam" />
         <module name="springboot_jpa" />
         <module name="springboot_mybatis" />
+        <module name="SpringBoot_quick" />
         <module name="springboot_quick2" />
         <module name="springBootDemo" />
         <module name="SpringDataRedisDemo" />
-        <module name="springJPA_quick_day1" />
         <module name="springJPA_quick_day2" />
-        <module name="springJPA_quick_day3_spec" />
         <module name="zjhdubbox" />
+      </profile>
+      <profile name="Annotation profile for springJPA_quick_day1" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springJPA_quick_day1" />
+        <module name="springJPA_quick_day3_spec" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="1.shiro-身份的认证流程" target="1.8" />
+      <module name="_1shiro身份的认证流程" target="1.8" />
+      <module name="CI_QuickStart" target="1.8" />
       <module name="dubboxdemo" target="1.7" />
       <module name="ES-Demo" target="1.8" />
       <module name="eureak-server" target="1.8" />
       <module name="eureak-server2" target="1.8" />
       <module name="fastDFS-demo" target="1.8" />
+      <module name="hs-price-collection-code-generator" target="1.8" />
       <module name="jpa-day2" target="1.8" />
+      <module name="mapper文件生成" target="1.8" />
       <module name="maven_high_level (1)" target="1.8" />
       <module name="maven_high_level (2)" target="1.8" />
+      <module name="POI-quckstar" target="1.8" />
       <module name="redis-demo" target="1.8" />
       <module name="redis_demo" target="1.8" />
       <module name="redisDemo" target="1.8" />
       <module name="redsi-demo" target="1.8" />
+      <module name="shiro-quickstsrt" target="1.8" />
       <module name="shiro_demo" target="1.7" />
       <module name="SpringBoot" target="1.8" />
+      <module name="springboot-yam" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
+      <module name="SpringBoot_quick" target="1.8" />
       <module name="springboot_quick2" target="1.8" />
       <module name="springBootDemo" target="1.8" />
       <module name="springBootDemo (1)" target="1.8" />
       <module name="SpringDataRedisDemo" target="1.8" />
+      <module name="SpringJPA-and-SpringBoot" target="1.8" />
       <module name="springJPA_quick_day1" target="1.8" />
       <module name="springJPA_quick_day2" target="1.8" />
       <module name="springJPA_quick_day3_spec" target="1.8" />

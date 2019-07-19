@@ -9,6 +9,10 @@ import org.csource.fastdfs.StorageServer;
 import org.csource.fastdfs.TrackerClient;
 import org.csource.fastdfs.TrackerServer;
 
+/**
+ * @author Casual developer
+ *
+ */
 public class Test {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, Exception {

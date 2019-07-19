@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/CI_QuickStart" />
     <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-service" />
     <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-web" />
     <file type="web" url="file://$PROJECT_DIR$/shiro_demo" />
@@ -27,6 +28,16 @@
         <option value="$PROJECT_DIR$/springPranter/SpringBoot_quick/pom.xml" />
         <option value="$PROJECT_DIR$/springPranter/springboot_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springPranter/springboot_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringBoot_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_quick2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springJPA_quick_day3_spec/pom.xml" />
+        <option value="$PROJECT_DIR$/POI-quckstar/pom.xml" />
+        <option value="$PROJECT_DIR$/CI_QuickStart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-yam/pom.xml" />
       </list>
     </option>
   </component>

@@ -37,7 +37,7 @@ public interface CustomerDao extends JpaRepository<Customer,Long> ,JpaSpecificat
      *      赋值的时候，默认的情况下，占位符的位置需要和方法参数中的位置保持一致
      *
      *  可以指定占位符参数的位置
-     *      ? 索引的方式，指定此占位的取值来源
+     *      ? 索引的方式，指定此占位的取值来源  比如2代表取形参的name值
      */
     @Query(value = "from Customer where custName = ?2 and custId = ?1")
     public Customer findCustNameAndId(Long id, String name);
