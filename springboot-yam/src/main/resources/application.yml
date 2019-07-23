@@ -12,3 +12,8 @@ Person:
   dog:
     name: xiaogou
     age: 13
+
+student:
+  age: 12
+  name: 张三
+  sex: 女

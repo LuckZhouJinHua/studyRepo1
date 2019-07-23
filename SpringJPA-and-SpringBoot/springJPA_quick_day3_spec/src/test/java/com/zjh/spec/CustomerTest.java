@@ -43,12 +43,12 @@ public class CustomerTest {
             public Predicate toPredicate(Root<Customer> root, CriteriaQuery<?> query, CriteriaBuilder cb) {
                 //1.获取比较的属性
                 Path<Object> custName = root.get("custName");
-                //2.构造查询条件  ：    select * from cst_customer where cust_name = '传智播客'
+                //2.构造查询条件  ：    select * from cst_customer where cust_name = '创造101'
                 /**
                  * 第一个参数：需要比较的属性（path对象）
                  * 第二个参数：当前需要比较的取值
                  */
-                Predicate equal = cb.equal(custName, "传智播客");//进行精准的匹配  （比较的属性，比较的属性的取值）
+                Predicate equal = cb.equal(custName, "创造101");//进行精准的匹配  （比较的属性，比较的属性的取值）
 
                 return equal;
             }

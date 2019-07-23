@@ -2,13 +2,14 @@ package com.zjh.springbootyam.domain;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
-
+import com.zjh.springbootyam.ReturnCode;
 import java.util.List;
 import java.util.Map;
 @Component
 @ConfigurationProperties(prefix = "person")
 public class Person {
     private int age;
+
     private String name;
     private List<Object> hoby;
     private Map<String,String> maps;
