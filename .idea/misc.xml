@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/CI_QuickStart" />
     <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-service" />
     <file type="web" url="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/RPCService" />
     <file type="web" url="file://$PROJECT_DIR$/shiro_demo" />
     <file type="web" url="file://$PROJECT_DIR$/ssm_demo/0320_maven_high_level" />
     <file type="web" url="file://$PROJECT_DIR$/ssm_demo/maven_high_level-2.0" />
@@ -38,6 +39,13 @@
         <option value="$PROJECT_DIR$/POI-quckstar/pom.xml" />
         <option value="$PROJECT_DIR$/CI_QuickStart/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-yam/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_plus_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/crawler-first/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/RPCService/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboxdemo/dubbox-demo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/pom.xml" />
       </list>
     </option>
   </component>

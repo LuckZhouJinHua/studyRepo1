@@ -6,10 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/ES-Demo/ES-Demo.iml" filepath="$PROJECT_DIR$/ES-Demo/ES-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/POI-Demo/POI-Demo.iml" filepath="$PROJECT_DIR$/POI-Demo/POI-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/POI-quckstar/POI-quckstar.iml" filepath="$PROJECT_DIR$/POI-quckstar/POI-quckstar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCService/RPCService.iml" filepath="$PROJECT_DIR$/RPCService/RPCService.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringBoot_quick/SpringBoot_quick.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/SpringBoot_quick/SpringBoot_quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDataRedisDemo/SpringDataRedisDemo.iml" filepath="$PROJECT_DIR$/SpringDataRedisDemo/SpringDataRedisDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/class-demo/class-demo.iml" filepath="$PROJECT_DIR$/class-demo/class-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/connection-test/connection-test.iml" filepath="$PROJECT_DIR$/connection-test/connection-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-first/crawler-first.iml" filepath="$PROJECT_DIR$/crawler-first/crawler-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-service/dubboxdemo.iml" filepath="$PROJECT_DIR$/dubboxdemo/dubbox-demo-service/dubboxdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureak-server/eureak-server.iml" filepath="$PROJECT_DIR$/eureak-server/eureak-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastDFS-demo/fastDFS-demo.iml" filepath="$PROJECT_DIR$/fastDFS-demo/fastDFS-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfacetest/interfacetest.iml" filepath="$PROJECT_DIR$/interfacetest/interfacetest.iml" />
@@ -17,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/lucene-project/lucene-first/lucene-first1.iml" filepath="$PROJECT_DIR$/lucene-project/lucene-first/lucene-first1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_demo/0320_maven_high_level/maven_high_level (1).iml" filepath="$PROJECT_DIR$/ssm_demo/0320_maven_high_level/maven_high_level (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_demo/maven_high_level-2.0/maven_high_level (2).iml" filepath="$PROJECT_DIR$/ssm_demo/maven_high_level-2.0/maven_high_level (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_plus_demo/mybatis_plus_demo.iml" filepath="$PROJECT_DIR$/mybatis_plus_demo/mybatis_plus_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-demo/redis-demo.iml" filepath="$PROJECT_DIR$/redis-demo/redis-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro_demo/shiro_demo.iml" filepath="$PROJECT_DIR$/shiro_demo/shiro_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBootDemo/springBootDemo.iml" filepath="$PROJECT_DIR$/springBootDemo/springBootDemo.iml" />
@@ -27,6 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_jpa/springboot_jpa.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_jpa/springboot_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_mybatis/springboot_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_quick2/springboot_quick2.iml" filepath="$PROJECT_DIR$/SpringJPA-and-SpringBoot/springboot_quick2/springboot_quick2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-consumer/test-rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-consumer/test-rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/zjhdubbox.iml" filepath="$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/zjhdubbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/学习代码.iml" filepath="$PROJECT_DIR$/.idea/学习代码.iml" />
     </modules>
   </component>

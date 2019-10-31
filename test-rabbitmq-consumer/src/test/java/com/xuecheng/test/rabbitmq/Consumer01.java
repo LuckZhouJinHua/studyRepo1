@@ -1,6 +1,8 @@
 package com.xuecheng.test.rabbitmq;
 
 import com.rabbitmq.client.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
@@ -13,8 +15,10 @@ import java.util.concurrent.TimeoutException;
  **/
 public class Consumer01 {
 
+    private static final Logger log = LoggerFactory.getLogger(Consumer01.class);
+
     //队列
-    private static final String QUEUE = "helloworld";
+    private static final String QUEUE = "helloworld1";
 
     public static void main(String[] args) throws IOException, TimeoutException {
         //通过连接工厂创建新的连接和mq建立连接
@@ -63,6 +67,7 @@ public class Consumer01 {
                 long deliveryTag = envelope.getDeliveryTag();
                 //消息内容
                 String message= new String(body,"utf-8");
+                log.info("收到了消息"+message);
                 System.out.println("receive message:"+message);
             }
         };

@@ -19,7 +19,7 @@
 
 </bean>
 
-    <bean id="XSSF" class="org.apache.">
+    <bean id="XSSF" class="org.apache.poi.hssf">
 
     </bean>
 

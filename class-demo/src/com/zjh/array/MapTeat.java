@@ -8,7 +8,7 @@ public class MapTeat {
         String str = "AABABC";
         System.out.println(charCount(str));
     }
-
+    //TODO 测试
     public static String charCount(String str) {
         TreeMap<Character, Integer> map = new TreeMap<Character, Integer>();
         char[] chs = str.toCharArray();

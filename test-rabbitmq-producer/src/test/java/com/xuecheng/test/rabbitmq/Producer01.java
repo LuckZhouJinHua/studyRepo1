@@ -17,7 +17,7 @@ import java.util.concurrent.TimeoutException;
 public class Producer01 {
 
     //队列
-    private static final String QUEUE = "helloworld";
+    private static final String QUEUE = "helloworld1";
 
     public static void main(String[] args) {
         //通过连接工厂创建新的连接和mq建立连接
@@ -38,7 +38,7 @@ public class Producer01 {
             channel = connection.createChannel();
             //声明队列，如果队列在mq 中没有则要创建
             //参数：String queue, boolean durable, boolean exclusive, boolean autoDelete, Map<String, Object> arguments
-            /**
+            /**lipei1340219708
              * 参数明细
              * 1、queue 队列名称
              * 2、durable 是否持久化，如果持久化，mq重启后队列还在
@@ -57,7 +57,7 @@ public class Producer01 {
              * 4、body，消息内容
              */
             //消息内容
-            String message = "hello world 黑马程序员";
+            String message = "hello world 黑马程序员 §";
             channel.basicPublish("",QUEUE,null,message.getBytes());
             System.out.println("send to mq "+message);
         } catch (Exception e) {

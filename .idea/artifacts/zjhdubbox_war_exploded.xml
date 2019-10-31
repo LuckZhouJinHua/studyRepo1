@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="zjhdubbox:war exploded">
-    <output-path>$PROJECT_DIR$/dubboxdemo/0401_dubboxdemo-web/target/zjhdubbox-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/target/zjhdubbox-1.0-SNAPSHOT</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="dubbox-demo-web" />
+          <element id="module-output" name="zjhdubbox" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
@@ -38,7 +38,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/target/zjhdubbox-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="dubbox-demo-web/web/Web" />
+      <element id="javaee-facet-resources" facet="zjhdubbox/web/Web" />
     </root>
   </artifact>
 </component>

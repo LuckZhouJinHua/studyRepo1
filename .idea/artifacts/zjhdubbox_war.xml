@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="zjhdubbox:war">
-    <output-path>$PROJECT_DIR$/dubboxdemo/0401_dubboxdemo-web/target</output-path>
+    <output-path>$PROJECT_DIR$/dubboxdemo/dubbox-demo-web/target</output-path>
     <root id="archive" name="zjhdubbox-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="zjhdubbox:war exploded" />
     </root>

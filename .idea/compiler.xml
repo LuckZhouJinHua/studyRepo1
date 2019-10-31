@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="1.shiro-身份的认证流程" />
         <module name="CI_QuickStart" />
+        <module name="crawler-first" />
         <module name="dubboxdemo" />
         <module name="ES-Demo" />
         <module name="eureak-server" />
@@ -16,8 +17,10 @@
         <module name="jpa-day2" />
         <module name="maven_high_level (1)" />
         <module name="maven_high_level (2)" />
+        <module name="mybatis_plus_demo" />
         <module name="POI-quckstar" />
         <module name="redis-demo" />
+        <module name="RPCService" />
         <module name="shiro_demo" />
         <module name="SpringBoot" />
         <module name="springboot-yam" />
@@ -28,9 +31,11 @@
         <module name="springBootDemo" />
         <module name="SpringDataRedisDemo" />
         <module name="springJPA_quick_day2" />
+        <module name="test-rabbitmq-consumer" />
+        <module name="test-rabbitmq-producer" />
         <module name="zjhdubbox" />
       </profile>
-      <profile name="Annotation profile for springJPA_quick_day1" enabled="true">
+      <profile name="Annotation profile for springJPA_quick_day3_spec" enabled="true">
         <sourceOutputDir name="../target/generated-sources/annotations" />
         <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -42,6 +47,7 @@
       <module name="1.shiro-身份的认证流程" target="1.8" />
       <module name="_1shiro身份的认证流程" target="1.8" />
       <module name="CI_QuickStart" target="1.8" />
+      <module name="crawler-first" target="1.8" />
       <module name="dubboxdemo" target="1.7" />
       <module name="ES-Demo" target="1.8" />
       <module name="eureak-server" target="1.8" />
@@ -52,11 +58,13 @@
       <module name="mapper文件生成" target="1.8" />
       <module name="maven_high_level (1)" target="1.8" />
       <module name="maven_high_level (2)" target="1.8" />
+      <module name="mybatis_plus_demo" target="1.8" />
       <module name="POI-quckstar" target="1.8" />
       <module name="redis-demo" target="1.8" />
       <module name="redis_demo" target="1.8" />
       <module name="redisDemo" target="1.8" />
       <module name="redsi-demo" target="1.8" />
+      <module name="RPCService" target="1.8" />
       <module name="shiro-quickstsrt" target="1.8" />
       <module name="shiro_demo" target="1.7" />
       <module name="SpringBoot" target="1.8" />
@@ -73,6 +81,8 @@
       <module name="springJPA_quick_day2" target="1.8" />
       <module name="springJPA_quick_day3_spec" target="1.8" />
       <module name="springPranter" target="1.8" />
+      <module name="test-rabbitmq-consumer" target="1.8" />
+      <module name="test-rabbitmq-producer" target="1.8" />
       <module name="zjhdubbox" target="1.7" />
     </bytecodeTargetLevel>
   </component>
